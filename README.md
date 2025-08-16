@@ -1,5 +1,5 @@
 # Hi!
-I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Science Student** passionate about building data-driven solutions.  
+I'm [Tahir Zaman](https://my-porfolio-ten-bice.vercel.app/), a **Data Engineering & Data Science Student** passionate about building data-driven solutions.  
 
 ---
 
