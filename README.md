@@ -3,7 +3,7 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 
 ---
 
-### 🚀 About Me
+###  About Me
 - 🎓 Studying **Data Science (Undergraduate)**  
 - 🛠️ Learning **Data Engineering, Databases, and Machine Learning**  
 - 🌱 Exploring **Python, SQL, and Data Analytics**  
