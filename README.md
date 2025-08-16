@@ -15,7 +15,7 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 - **Languages:** Python, SQL, JavaScript  
 - **Tools:** Git, Excel, Power BI  
 - **Databases:** MySQL, PostgreSQL  
-- **OS:** Linux (Mint / Ubuntu)  
+- **OS:**  window & Linux (Mint / Ubuntu)  
 
 ---
 
