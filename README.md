@@ -27,9 +27,9 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- [Portfolio](https://your-portfolio.com)  
-- [Resume](https://drive.google.com/uc?export=download&id=YOUR_FILE_ID)  
+- [LinkedIn](www.linkedin.com/in/tahir-zaman-9285722a8)  
+- [Portfolio](https://my-porfolio-ten-bice.vercel.app/)  
+- [Resume](https://drive.google.com/file/d/1d3AcX04EDM25OzhGrgr9QIZEV-sRr8xq/view?usp=sharing)  
 
 ---
 ##  Contact
