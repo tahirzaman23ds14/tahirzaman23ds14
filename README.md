@@ -19,13 +19,6 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 
 ---
 
-## GitHub Stats
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirzaman&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman&layout=compact&theme=tokyonight)  
-
----
-
 ## 🔗 Connect With Me
 - [LinkedIn](www.linkedin.com/in/tahir-zaman-9285722a8)  
 - [Portfolio](https://my-porfolio-ten-bice.vercel.app/)  
@@ -36,4 +29,12 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 You can reach me at:  
 - **Email 1:** [tahirzamanoffice1@gmail.com](mailto:tahirzamanoffice1@gmail.com)  
 - **Email 2:** [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
+
+---
+
+## GitHub Stats
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirzaman&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman&layout=compact&theme=tokyonight)  
+
 
