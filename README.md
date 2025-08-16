@@ -13,8 +13,8 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 ---
 
 ##  Tech Stack
-- **Languages:** Python, SQL, JavaScript  
-- **Tools:** Git, Excel, Power BI  
+- **Languages:** Python, SQL, 
+- **Tools:** Git, Excel, 
 - **Databases:** MySQL, PostgreSQL  
 - **OS:**  Window & Linux (Mint / Ubuntu)  
 
