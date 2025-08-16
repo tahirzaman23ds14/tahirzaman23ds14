@@ -4,10 +4,11 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 ---
 
 ##  About Me
-- 🎓 Studying **Data Science (Undergraduate)**  
-- 🛠️ Learning **Data Engineering, Databases, and Machine Learning**  
-- 🌱 Exploring **Python, SQL, and Data Analytics**  
-- 🎯 Goal: Become a **Data Engineer → Data Analyst → Data Scientist**  
+- 🎓 Currently in **4th semester (2nd year)** of my **Data Science undergraduate degree**  
+- 🛠️ Beginning my journey in **Data Engineering**  
+- 📚 Learning **Databases, Machine Learning, and Data Analytics**  
+- 🌱 Exploring **Python, SQL, and modern Data Engineering tools**  
+- 🎯 Career Path: **Data Engineer → Data Analyst → Data Scientist** 
 
 ---
 
