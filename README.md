@@ -6,7 +6,7 @@ I'm [Tahir Zaman](https://github.com/tahirzaman), a **Data Engineering & Data Sc
 ##  About Me
 - 🎓 Currently in **4th semester (2nd year)** of my **Data Science undergraduate degree**  
 - 🛠️ Beginning my journey in **Data Engineering**  
-- 📚 Learning **Databases, Machine Learning, and Data Analytics**  
+- 📚 Learning **Databases, Machine Learning, and Python**  
 - 🌱 Exploring **Python, SQL, and modern Data Engineering tools**  
 - 🎯 Career Path: **Data Engineer → Data Analyst → Data Scientist** 
 
