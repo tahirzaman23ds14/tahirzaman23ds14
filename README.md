@@ -4,7 +4,7 @@ I'm [Tahir Zaman](https://my-porfolio-ten-bice.vercel.app/), a **Data Engineerin
 ---
 
 ##  About Me
-- 🎓 Currently in **4th semester (2nd year)** of my **Data Science undergraduate degree**  
+- 🎓 Currently in **2th semester (2nd year)** of my **Data Science undergraduate degree**  
 - 🛠️ Beginning my journey in **Data Engineering**  
 - 📚 Learning **Databases, Machine Learning, and Python**  
 - 🌱 Exploring **Python, SQL, and modern Data Engineering tools**  
