@@ -16,7 +16,7 @@ I'm [Tahir Zaman](https://my-porfolio-ten-bice.vercel.app/), a **Beginer Data En
 - **Languages:** Python, SQL, 
 - **Tools:** Git, Excel, 
 - **Databases:** MySQL, PostgreSQL  
-- **OS:**  Window 11 & Linux (Ubuntu)  
+- **OS:**  Window11 & Linux (Ubuntu)  
 
 ---
 
