@@ -1,5 +1,5 @@
 # Hi!
-I'm [Tahir Zaman](https://my-porfolio-ten-bice.vercel.app/), a **Beginer Data Engineering & Data Science Student**   
+I'm [Tahir Zaman](https://my-porfolio-ten-bice.vercel.app/), a **Beginer Data Engineering & Data Science Student**  living in Nawabshah, Sindh, Pakistan.  
 
 ---
 
