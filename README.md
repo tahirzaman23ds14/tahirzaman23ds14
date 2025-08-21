@@ -19,9 +19,8 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img alt="Python" src="/static/img/python-logo.png" alt="python™">" />
+  <img alt="Python" src="https://pin.it/6V7zJgztY">
   <img alt="SQL" src="" />
-  <img alt="MySQL" src="" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?logo=windows11&logoColor=white" />
