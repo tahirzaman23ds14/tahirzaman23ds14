@@ -1,41 +1,53 @@
-# Hi!
-I'm [Tahir Zaman](https://my-porfolio-ten-bice.vercel.app/), a **Beginer Data Engineering & Data Science Student**  living in Nawabshah, Sindh, Pakistan.  
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a></h1>
+<p align="center">
+  🚀 Beginner Data Engineering & Data Science Student  
+  <br/>
+  📍 Nawabshah, Sindh, Pakistan
+</p>
 
 ---
 
-##  About Me
-- 🎓 Currently in **2th semester (2nd year)** of my **Data Science undergraduate degree**  
-- 🛠️ Beginning my journey in **Data Engineering**  
+## 🌟 About Me
+- 🎓 Currently in **2nd semester (2nd year)** of my **Data Science undergraduate degree**  
+- 🛠️ Starting my journey in **Data Engineering**  
 - 📚 Learning **Databases, Machine Learning, and Python**  
 - 🌱 Exploring **Python, SQL, and modern Data Engineering tools**  
-- 🎯 Career Path: **Data Engineer → Data Analyst → Data Scientist** 
+- 🎯 Career Path: **Data Engineer → Data Analyst → Data Scientist**
 
 ---
 
-##  Tech Stack
-- **Languages:** Python, SQL, 
-- **Tools:** Git, Excel, 
-- **Databases:** MySQL, PostgreSQL  
-- **OS:**  Window11 & Linux (Ubuntu ~ mint)  
+## 🧰 Tech Stack
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?logo=windows11&logoColor=white" />
+  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white" />
+</p>
 
 ---
 
 ## 🔗 Connect With Me
-- [LinkedIn](www.linkedin.com/in/tahir-zaman-9285722a8)  
-- [Portfolio](https://my-porfolio-ten-bice.vercel.app/)  
-- [Resume](https://drive.google.com/file/d/1d3AcX04EDM25OzhGrgr9QIZEV-sRr8xq/view?usp=sharing)  
-
----
-##  Contact
-You can reach me at:  
-- **Email 1:** [tahirzamanoffice1@gmail.com](mailto:tahirzamanoffice1@gmail.com)  
-- **Email 2:** [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tahir-zaman-9285722a8)  
+- 🌐 [Portfolio](https://my-porfolio-ten-bice.vercel.app/)  
+- 📄 [Resume](https://drive.google.com/file/d/1d3AcX04EDM25OzhGrgr9QIZEV-sRr8xq/view?usp=sharing)  
 
 ---
 
-## GitHub Stats
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirzaman&show_icons=true&theme=tokyonight)  
+## 📫 Contact
+- 📧 [tahirzamanoffice1@gmail.com](mailto:tahirzamanoffice1@gmail.com)  
+- 📧 [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman&layout=compact&theme=tokyonight)  
+---
 
+## 📊 GitHub Stats
+<div align="center">
+  
+![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight)  
 
+</div>
