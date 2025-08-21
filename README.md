@@ -19,12 +19,13 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img alt="Python" src="https://pin.it/6V7zJgztY">
-  <img alt="SQL" src="" />
+  <p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img alt="Windows" src="https://img.shields.io/badge/Windows_11-0078D6?logo=windows11&logoColor=white" />
-  <img alt="Linux Mint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?logo=windows11&logoColor=white" />
+</p>
 </p>
 
 ---
