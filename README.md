@@ -1,6 +1,17 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" />
+  <span style="display:inline-block; transform-origin: 70% 70%;">
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 36 36">
+      <text y="32" font-size="32">👋</text>
+      <animateTransform 
+          attributeName="transform" 
+          attributeType="XML" 
+          type="rotate" 
+          values="0 18 18; 20 18 18; -10 18 18; 20 18 18; 0 18 18" 
+          dur="2.5s" 
+          repeatCount="indefinite" />
+    </svg>
+  </span>
   Hi there, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a>
 </h1>
 <p align="center">
