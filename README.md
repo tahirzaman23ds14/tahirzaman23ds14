@@ -1,5 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a></h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40px" />
+  Hi there, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a>
+</h1>
 <p align="center">
   🚀 Beginner Data Engineering & Data Science Student  
   <br/>
