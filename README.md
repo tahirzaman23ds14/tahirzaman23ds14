@@ -1,19 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">
-  <span style="display:inline-block; transform-origin: 70% 70%;">
-    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 36 36">
-      <text y="32" font-size="32">👋</text>
-      <animateTransform 
-          attributeName="transform" 
-          attributeType="XML" 
-          type="rotate" 
-          values="0 18 18; 20 18 18; -10 18 18; 20 18 18; 0 18 18" 
-          dur="2.5s" 
-          repeatCount="indefinite" />
-    </svg>
-  </span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   Hi there, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a>
 </h1>
+
 <p align="center">
   🚀 Beginner Data Engineering & Data Science Student  
   <br/>
