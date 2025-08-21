@@ -1,10 +1,10 @@
 <!-- Profile Header -->
-<h1 align="center">
+<h1 >
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   Hi there, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a>
 </h1>
 
-<p align="center">
+<p >
   🚀 Beginner Data Engineering & Data Science Student  
   <br/>
   📍 Nawabshah, Sindh, Pakistan
