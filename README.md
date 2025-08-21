@@ -44,7 +44,7 @@
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
+<div>
   
 ![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight)  
