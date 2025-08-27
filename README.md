@@ -13,7 +13,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Currently in **4nd semester (2nd year)** of my **Data Science undergraduate degree**  
+- 🎓 Currently in **5nd semester (2nd year)** of my **Data Science undergraduate degree**  
 - 🛠️ Starting my journey in **Data Engineering**  
 - 📚 Learning **Databases, Machine Learning, and Python**  
 - 🌱 Exploring **Python, SQL, and modern Data Engineering tools**  
