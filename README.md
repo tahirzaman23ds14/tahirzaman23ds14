@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1  >
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
-  Hi, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a>
+  Hi There, I'm <a href="https://my-porfolio-ten-bice.vercel.app/">Tahir Zaman</a>
 </h1>
 
 <p >
