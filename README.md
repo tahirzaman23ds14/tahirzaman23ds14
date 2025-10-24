@@ -22,7 +22,7 @@ My interests include:
 - 🎧 Listening to music to stay inspired  
 
 I’m hardworking, self-motivated, and always eager to learn new skills.  
-My long-term goal is to build a strong career in **AI, Machine Learning, Data Engineering, and Full Stack Development**,  
+My long-term goal is to build a strong career in **Data Science, AI, Machine Learning, Data Engineering, and Full Stack Development**,  
 while contributing to the growth of innovative organizations.
 
 ---
