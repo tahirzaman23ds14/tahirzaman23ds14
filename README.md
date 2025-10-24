@@ -28,8 +28,8 @@ while contributing to the growth of innovative organizations.
 ---
 
 ## 🧠 Current Focus
-- 🎓 Currently in **5th semester (3rd year)** of my **Data Science undergraduate program**  
-- 🛠️ Starting my journey in **Data Engineering**  
+- 🎓 Currently in **5th semester (3rd year)** of my **Data Science program**  
+- 🛠️ Starting my journey in **Artifical Intelligence & Machine Learning**  
 - 💻 Learning **Databases, Python, and Machine Learning**  
 - 🌱 Exploring **SQL, Python, and modern Data Engineering tools**  
 - 🎯 Career Roadmap: **Data Engineer → Data Analyst → Data Scientist**
