@@ -29,22 +29,9 @@ while contributing to the growth of innovative organizations.
 
 ## 🧠 Current Focus
 - 🎓 Currently in **5th semester (3rd year)** of my **Data Science program**  
-- 🛠️ Starting my journey in **Artifical Intelligence & Machine Learning**  
-- 💻 Learning **Databases, Python, and Machine Learning**  
-- 🌱 Exploring **SQL, Python, and modern Data Engineering tools**  
-- 🎯 Career Roadmap: **Data Engineer → Data Analyst → Data Scientist**
-
----
-
-## 🧰 Tech Stack
-
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
-  <img alt="Windows 11" src="https://img.shields.io/badge/Windows%2011-0078D6?logo=windows11&logoColor=white" />
-</p>
+- 🛠️ Developing expertise in **Artifical Intelligence & Machine Learning**  
+- 💻 Learning **Maths, Python, and Machine Learning**  
+- 🌱 Exploring **scikit learn,**  
 
 ---
 
