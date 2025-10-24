@@ -14,7 +14,7 @@
 ## 🌟 About Me
 
 I’m from Sindh, Nawabshah, and currently pursuing my **Bachelor’s degree in <a href="https://www.google.com/search?q=data+science&sca_esv=83fe48d8321cea54&rlz=1C1CHBD_enPK1161PK1161&sxsrf=AE3TifPSiIwWkym_Qmf2CjbshEsUYs1YTA%3A1761300077827&ei=bU77aLCoMv3vi-gP0JzD6Qc&ved=0ahUKEwjwku2LyryQAxX99wIHHVDOMH0Q4dUDCBE&uact=5&oq=data+science&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGRhdGEgc2NpZW5jZTIQECMY8AUYgAQYJxjJAhiKBTIKECMY8AUYJxjJAjIKECMYgAQYJxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBUipEVD6CVi9D3ADeAGQAQCYAfcBoAGLCaoBAzItNbgBA8gBAPgBAZgCBaACxQPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICBxAjGLECGCfCAgYQABgHGB7CAgsQABiABBiRAhiKBZgDAIgGAZAGCpIHBTMuMC4yoAf9MrIHAzItMrgHtwPCBwUwLjEuNMgHEg&sclient=gws-wiz-serp"> Data Science</a>** at **QUEST University**.  
-“I’m fortunate to have a family that values curiosity, learning, and innovation" and have a deep passion for **technology and innovation**.  
+I’m fortunate to have a family that values curiosity, learning, and creativity, which inspires my deep passion for” **technology and innovation**.  
 
 My interests include:
 - 💡 Building and experimenting with technological solutions  
