@@ -1,12 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">
   👋 Hello! Thank you for visiting my profile.  
-  I'm <a href="https://my-porfolio-ten-bice.vercel.app/" target="_blank" >Tahir Zaman</a>
+  I'm <a href="https://my-porfolio-ten-bice.vercel.app/" >Tahir Zaman</a>
 </h1>
 
 <h3 align="center">
   🎓 Data Science Undergraduate at 
-  <a href="https://quest.edu.pk/" target="_blank ">Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah</a>
+  <a href="https://quest.edu.pk/" >Quaid-e-Awam University of Engineering, Science & Technology (QUEST), Nawabshah</a>
 </h3>
 
 ---
