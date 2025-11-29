@@ -46,8 +46,18 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 
 ---
 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Tahir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=github&area=true)
+<!-- GitHub Stats Card -->
+![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages Card -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight)
+
+<!-- Contribution Graph -->
+![Tahir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=tokyonight&area=true)
 
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
+
+
