@@ -47,7 +47,7 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 ---
 ## 📊 GitHub Stats
 
-![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=github)
+![Tahir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=github&area=true)
 
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
