@@ -45,10 +45,9 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 - 📧 [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
 
 ---
-
 ## 📊 GitHub Stats
 
+![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=github)
 
----
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
