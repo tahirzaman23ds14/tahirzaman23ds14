@@ -51,8 +51,8 @@ while contributing to the growth of innovative organizations.
 ## 📊 GitHub Stats
 <div align="center">
   
-![Tahir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight)  
+## My GitHub Contribution Graph
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
 </div>
 
