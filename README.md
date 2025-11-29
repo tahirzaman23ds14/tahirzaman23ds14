@@ -45,25 +45,23 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 - 📧 [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
 
 ---
----
 
-## 📊 GitHub Showcase 📈
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" alt="Tahir's GitHub Stats" />
+<p align="left">
+<a href="https://github.com/tahirzaman23ds14">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-    <img src="https://streak-stats.demolab.com/?user=tahirzaman23ds14&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tahirzaman23ds14" alt="tahirzaman23ds14" /> </p>
 
 ---
-
-
+---
+---
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
 
-
+---
+---
+---
