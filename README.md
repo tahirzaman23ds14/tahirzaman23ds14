@@ -45,8 +45,17 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 - 📧 [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
 
 ---
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/dronefreak">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dronefreak" alt="dronefreak" /> </p>
 
 <!-- GitHub Stats Card -->
 ![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)
