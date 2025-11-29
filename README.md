@@ -49,7 +49,7 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/dronefreak">
+<a href="https://github.com/tahirzaman23ds14">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dronefreak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dronefreak&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -57,14 +57,7 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dronefreak" alt="dronefreak" /> </p>
 
-<!-- GitHub Stats Card -->
-![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight)
-
-<!-- Contribution Graph -->
-![Tahir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=tokyonight&area=true)
 
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
