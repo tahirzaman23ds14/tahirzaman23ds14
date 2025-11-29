@@ -45,17 +45,23 @@ I am hardworking, self-motivated, and always eager to learn. My long-term goal i
 - 📧 [tahirzaman8585@outlook.com](mailto:tahirzaman8585@outlook.com)  
 
 ---
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+---
 
-<!-- GitHub Stats Card -->
-![Tahir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight)
+## 📊 GitHub Showcase 📈
 
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tahirzaman23ds14&show_icons=true&theme=tokyonight&count_private=true&hide=issues,prs" alt="Tahir's GitHub Stats" />
+</p>
 
-<!-- Contribution Graph -->
-![Tahir's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tahirzaman23ds14&theme=tokyonight&area=true)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahirzaman23ds14&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+    <img src="https://streak-stats.demolab.com/?user=tahirzaman23ds14&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
 
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
