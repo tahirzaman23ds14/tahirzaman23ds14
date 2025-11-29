@@ -13,25 +13,23 @@
 
 ## 🌟 About Me
 
-I’m from Sindh, Nawabshah, and currently pursuing my **Bachelor’s degree in <a href="https://www.google.com/search?q=data+science&sca_esv=83fe48d8321cea54&rlz=1C1CHBD_enPK1161PK1161&sxsrf=AE3TifPSiIwWkym_Qmf2CjbshEsUYs1YTA%3A1761300077827&ei=bU77aLCoMv3vi-gP0JzD6Qc&ved=0ahUKEwjwku2LyryQAxX99wIHHVDOMH0Q4dUDCBE&uact=5&oq=data+science&gs_lp=Egxnd3Mtd2l6LXNlcnAiDGRhdGEgc2NpZW5jZTIQECMY8AUYgAQYJxjJAhiKBTIKECMY8AUYJxjJAjIKECMYgAQYJxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBUipEVD6CVi9D3ADeAGQAQCYAfcBoAGLCaoBAzItNbgBA8gBAPgBAZgCBaACxQPCAgoQABiwAxjWBBhHwgINEAAYgAQYsAMYQxiKBcICBxAjGLECGCfCAgYQABgHGB7CAgsQABiABBiRAhiKBZgDAIgGAZAGCpIHBTMuMC4yoAf9MrIHAzItMrgHtwPCBwUwLjEuNMgHEg&sclient=gws-wiz-serp"> Data Science</a>** at **QUEST University**.  
-I’m fortunate to have a family that values curiosity, learning, and creativity, which inspires my deep passion for” **Technology & Innovation**.  
+I’m from Sindh, Nawabshah, and currently pursuing my **Bachelor’s degree in <a href="https://www.google.com/search?q=data+science">Data Science</a>** at QUEST.  
+I have a strong passion for **technology and innovation**, inspired by my family’s values of curiosity, learning, and creativity.  
 
-My interests include:
+**Interests include:**  
 - 💡 Building and experimenting with technological solutions  
-- 📚 Reading about self-discipline, human psychology, and personal growth  
+- 📚 Learning about self-discipline, psychology, and personal growth  
 - 🎧 Listening to music to stay inspired  
 
-I’m hardworking, self-motivated, and always eager to learn new skills.  
-My long-term goal is to build a strong career in **Data Science, AI, Machine Learning, Data Engineering, and Full Stack Development**,  
-while contributing to the growth of innovative organizations.
+I am hardworking, self-motivated, and always eager to learn. My long-term goal is to build a strong career in **Data Science, AI, Machine Learning, Data Engineering, and Full Stack Development**, while contributing to innovative projects and organizations.
 
 ---
 
 ## 🧠 Current Focus
-- 🎓 Currently in **5th semester (3rd year)** of my **Data Science program**  
-- 🛠️ Developing expertise in **Artifical Intelligence & Machine Learning**  
-- 💻 Learning **Maths, Python, and Machine Learning**  
-- 🌱 Exploring **scikit learn,**  
+- 🎓 5th semester (3rd year) of **Data Science program**  
+- 🛠️ Developing expertise in **Artificial Intelligence & Machine Learning**  
+- 💻 Learning **Mathematics, Python, and Machine Learning libraries**  
+- 🌱 Exploring **scikit-learn and data-driven solutions**
 
 ---
 
@@ -49,13 +47,8 @@ while contributing to the growth of innovative organizations.
 ---
 
 ## 📊 GitHub Stats
-<div align="center">
-  
-## My GitHub Contribution Graph
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
-</div>
 
 ---
 
-<h3 align="center">✨ Thank you very much for visiting my profile! ✨</h3>
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
